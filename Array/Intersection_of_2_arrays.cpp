@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
-{
+{//hacktober fun
   int i,j,m,n;
   cout <<"Enter size of array 1:";
   cin >> m;
