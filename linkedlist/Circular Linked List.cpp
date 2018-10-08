@@ -3,6 +3,7 @@ using namespace std;
 
 struct node
 {
+	//hacktober fun
 	int val;
 	node *next;
 };
