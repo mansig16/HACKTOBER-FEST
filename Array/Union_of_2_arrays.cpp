@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
-{
+{//hacktober fun
    int m,n,i=0,j=0;
    cout<<"Enter size of both arrays:";
    cin>>m>>n;
