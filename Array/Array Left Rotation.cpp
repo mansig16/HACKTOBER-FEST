@@ -21,7 +21,7 @@ int main(){
 			else{
 			a[j]=a[j+1];
 			}
-			
+		//hacktober fun	
 			
 		}
 	}cout<<"Your rotated array is=\t";
