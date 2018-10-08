@@ -21,6 +21,8 @@ int main(){
 			else{
 			a[j]=a[j+1];
 			}
+			
+			
 		}
 	}cout<<"Your rotated array is=\t";
 	for(int j=0;j<n;j++){
