@@ -29,7 +29,7 @@ int main()
 		cout<<"Element not found..!!";
 	}
 	else
-	{
+	{//hacktober fun
 		cout<<"Element deleted successfully..!!\n";
 		cout<<"Now the new array is :\n";
 		for(i=0; i<(size-1); i++)
