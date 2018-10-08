@@ -1,5 +1,5 @@
 #include<iostream>
-#define SIZE 5
+#define SIZE 55
 using namespace std;
 
 class node
